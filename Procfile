@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run cars-prices.py
+web: sh setup.sh && streamlit run car-prices.py
